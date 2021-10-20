@@ -3,7 +3,7 @@
 ## parser.py
 Исполняемый файл со скриптом.
 
-## test_parser.ipynb
+## parser_test.ipynb
 Тестовый файл с кодом сборки скрипта.
 
 ## flats.csv 
